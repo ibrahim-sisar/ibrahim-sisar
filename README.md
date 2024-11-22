@@ -52,7 +52,7 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 ## 📂 Highlighted Projects
 
 ### 🌐 Web Applications
-#soon
+## soon
 <!-- - **[Project Name 1](project-link)**: A brief description of the project.
 - **[Project Name 2](project-link)**: A brief description of the project. -->
 
