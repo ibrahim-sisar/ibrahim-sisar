@@ -56,7 +56,7 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 - **[Project Name 2](project-link)**: A brief description of the project.
 
 ### 🖥️ Desktop Applications
-- **[python markt]([https://github.com/ibrahim-sisar/python-markt)**: A desktop application built with Tkinter.
+- **[python markt](https://github.com/ibrahim-sisar/python-markt)**: A desktop application built with Tkinter.
 
 ### 🤖 Robotics
 - **[Agrebot](https://www.youtube.com/watch?v=VuprfWUG2-A&t=2s)**: A demonstration of an intelligent robot built using Arduino or ESP32.  
