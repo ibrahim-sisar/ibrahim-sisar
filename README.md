@@ -59,9 +59,11 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 - **[Project Name 3](project-link)**: A desktop application built with Tkinter.
 
 ### 🤖 Robotics
-- **[Project Name 4](project-link)**: An intelligent robot using Arduino or ESP32.
+- **[Agrebot]([video-link](https://www.youtube.com/watch?v=VuprfWUG2-A&t=2s))**: A demonstration of an intelligent robot built using Arduino or ESP32.  
+  *(Check out the video to see it in action!)*
 
-(Add real links to your projects here!)
+(Add a real link to the video here!)
+
 
 ---
 
@@ -73,9 +75,8 @@ I aim to become a professional developer specializing in cutting-edge technologi
 
 ## 🤝 Let's Connect!
 
-- **Email**: [example@email.com](mailto:example@email.com)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
+- **Email**: [ibrahim.sisar@gmail.com](ibrahim.sisar@gmail.com)
+- **GitHub**: [https://github.com/ibrahim-sisar](https://github.com/ibrahim-sisar)
 
 ---
 
