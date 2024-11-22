@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Ibrahim abu al roos, a passionate programmer, innovator, and tech enthusiast. At just 15 years old, I have developed a solid foundation in various programming and technical fields.  
+Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and tech enthusiast. At just 15 years old, I have developed a solid foundation in various programming and technical fields.  
 
 **What do I offer?**
 - Building web applications with **Django** and **Flask**.
