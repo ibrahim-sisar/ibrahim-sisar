@@ -59,7 +59,7 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 - **[Project Name 3](project-link)**: A desktop application built with Tkinter.
 
 ### 🤖 Robotics
-- **[Agrebot]([video-link](https://www.youtube.com/watch?v=VuprfWUG2-A&t=2s))**: A demonstration of an intelligent robot built using Arduino or ESP32.  
+- **[Agrebot](https://www.youtube.com/watch?v=VuprfWUG2-A&t=2s)**: A demonstration of an intelligent robot built using Arduino or ESP32.  
   *(Check out the video to see it in action!)*
 
 (Add a real link to the video here!)
