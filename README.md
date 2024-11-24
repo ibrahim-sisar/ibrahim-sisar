@@ -16,7 +16,7 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 - **Scientific and Technical Exhibition**: Achieved **1st Place** and the Grand Prize.
 - **WRO Local Competition**: Secured **1st Place** at the national level in Palestine.
 - **WRO International Competition**: Ranked **9th Globally** in Germany.
-- **TEDx Speaker**: Presented my ideas to a global audience.
+- **[TEDx Speaker](https://www.youtube.com/watch?v=hQ-MoyboAKo)**: Presented my ideas to a global audience.
 - Built advanced robots using **Arduino** and **ESP32**.
 - Expertise in repairing and designing electronic circuits.
 
