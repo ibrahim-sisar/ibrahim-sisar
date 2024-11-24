@@ -24,27 +24,27 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 
 ### 🖥️ Programming
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <a href="https://www.python.org/" ><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://www.learn-c.org/" ><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
+  <a href="https://www.w3schools.com/js/" ><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://www.w3schools.com/html/" ><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
+  <a href="https://www.w3schools.com/css/" ><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
+  <a href="https://www.w3schools.com/sql/" ><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
 </div>
 
 ### 📚 Frameworks & Libraries
 <div>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Tkinter-FF6600?style=for-the-badge" alt="Tkinter">
-  <img src="https://img.shields.io/badge/PyGame-00CCCC?style=for-the-badge" alt="Pygame">
+  <a href="https://www.djangoproject.com/" ><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+  <a href="https://flask.palletsprojects.com/en/stable/" ><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
+  <a href="https://opencv.org/" ><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+  <a href="https://docs.python.org/3/library/tkinter.html" ><img src="https://img.shields.io/badge/Tkinter-FF6600?style=for-the-badge" alt="Tkinter"></a>
+  <a href="https://www.pygame.org/news" ><img src="https://img.shields.io/badge/PyGame-00CCCC?style=for-the-badge" alt="Pygame"></a>
 </div>
 
 ### 🔧 Electronics
 <div>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/ESP32-003B57?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <a href="https://www.arduino.cc/" ><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"></a>
+  <a href="https://www.espressif.com/en/products/socs/esp32" ><img src="https://img.shields.io/badge/ESP32-003B57?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"></a>
 </div>
 
 ---
