@@ -52,7 +52,7 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 ## 📂 Highlighted Projects
 
 ### 🌐 Web Applications
- - **[IMDB](https://ibrahim-sisar/IMDB/)**: Search for movie information useing**(flask)**.
+ - **[IMDB](https://github.com/ibrahim-sisar/IMDB)**: Search for movie information useing **(flask)**.
 <!-- - **[Project Name 2](project-link)**: A brief description of the project. -->
 
 ### 🖥️ Desktop Applications
