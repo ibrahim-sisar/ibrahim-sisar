@@ -24,30 +24,62 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 
 ### 🖥️ Programming
 <div>
-  <a href="https://www.python.org/" ><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://www.learn-c.org/" ><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
-  <a href="https://www.w3schools.com/js/" ><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="https://www.w3schools.com/html/" ><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
-  <a href="https://www.w3schools.com/css/" ><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
-  <a href="https://www.w3schools.com/sql/" ><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
 </div>
+
 
 ### 📚 Frameworks & Libraries
 <div>
-  <a href="https://www.djangoproject.com/" ><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-  <a href="https://flask.palletsprojects.com/en/stable/" ><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
-  <a href="https://opencv.org/" ><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
-  <a href="https://docs.python.org/3/library/tkinter.html" ><img src="https://img.shields.io/badge/Tkinter-FF6600?style=for-the-badge" alt="Tkinter"></a>
-  <a href="https://www.pygame.org/news" ><img src="https://img.shields.io/badge/PyGame-00CCCC?style=for-the-badge" alt="Pygame"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wEAtpMCNxjcW_9VZyGafdg.png" height="70" alt="Tkinter">
+  <img width="22" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" height="40" alt="Pygame">
+  <img width="12" />
 </div>
 
 ### 🔧 Electronics
 <div>
-  <a href="https://www.arduino.cc/" ><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"></a>
-  <a href="https://www.espressif.com/en/products/socs/esp32" ><img src="https://img.shields.io/badge/ESP32-003B57?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Pygame">
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_von_Espressif.png" height="50" alt="Pygame">
+  <img width="12" />
 </div>
 
----
+### 🔄 distributed version control system
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+</div>
+
+### 📑 editor
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+</div>
+
 
 ## 📂 Highlighted Projects
 
