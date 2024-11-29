@@ -79,5 +79,10 @@ I aim to become a professional developer specializing in cutting-edge technologi
 
 ---
 
+## Snake Animation 🐍
+![Snake animation](https://raw.githubusercontent.com/ibrahim-sisar/ibrahim-sisar/output/snake.svg)
+
+---
+
 > 💡 "Continuous learning is the key to success."  
 > **Feel free to reach out for collaboration, sharing ideas, or exploring new opportunities!**
