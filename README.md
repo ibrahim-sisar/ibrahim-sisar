@@ -106,7 +106,7 @@ Expertise in repairing and designing electronic circuits.
 I aim to become a professional developer specializing in cutting-edge technologies like Artificial Intelligence, Internet of Things (IoT), and system automation.
 
 ---
-![](https://komarev.com/ghpvc/?username=ibrahim-sisar)
+
 
 ## 🤝 Let's Connect!
 
@@ -117,3 +117,5 @@ I aim to become a professional developer specializing in cutting-edge technologi
 
 > 💡 "Continuous learning is the key to success."  
 > **Feel free to reach out for collaboration, sharing ideas, or exploring new opportunities!**
+---
+![](https://komarev.com/ghpvc/?username=ibrahim-sisar)
