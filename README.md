@@ -59,6 +59,8 @@ Expertise in repairing and designing electronic circuits.
   <img width="22" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" height="40" alt="Pygame">
   <img width="12" />
+  <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" height="70" alt="Pygame">
+  <img width="12" />
 </div>
 
 ### 🔧 Electronics
