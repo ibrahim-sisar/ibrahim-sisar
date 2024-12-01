@@ -11,7 +11,7 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 - Working with camera systems using **OpenCV**.
 - Proficient in working with **REST APIs**.
 
-## 🏆 Achievements
+## 🏆 Achievements <img src="img1.jpg">
 
 #### **Scientific and Technical Exhibition**: Achieved **1st Place** and the Grand Prize.
 <!--[](image2.jfif)
@@ -121,3 +121,4 @@ I aim to become a professional developer specializing in cutting-edge technologi
 > **Feel free to reach out for collaboration, sharing ideas, or exploring new opportunities!**
 ---
 ![](https://komarev.com/ghpvc/?username=ibrahim-sisar)
+
