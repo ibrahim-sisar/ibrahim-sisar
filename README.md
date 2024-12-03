@@ -18,12 +18,12 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 ![img1](image6_resized_255x255.jpg)
 ![img2](image9_resized_255x255.JPG)
 ![img3](image10_resized_255x255.JPG)
-![img4](image11_resized_255x255.jpg)
+<!-- [img4](image11_resized_255x255.jpg) -->
 #### WRO Local Competition**: Secured **1st Place** at the national level in Palestine.
 ![img1](image2_resized_255x255.jpg)
 ![img2](image3_resized_255x255.jpg)
 ![img3](image4_resized_255x255.jpg)
-![img4](image5_resized_255x255.jpg)
+<!-- [img4](image5_resized_255x255.jpg)-->
 #### WRO International Competition**: Ranked **9th Globally** in Germany.
 ![img1](image1_resized_255x255.jpg)
 #### **[TEDx Speaker](https://www.youtube.com/watch?v=hQ-MoyboAKo)**: Presented my ideas to a global audience.
@@ -37,6 +37,7 @@ Expertise in repairing and designing electronic circuits.
 ![im2](image3_resized_255x255.jpg)
 ![img3](image7_resized_255x255.jpg)
 ![img4](image1_resized_255x255.jpg)
+![img4](image11_resized_255x255.jpg)
 ### 🖥️ Programming
 <div>
   <div align="left">
