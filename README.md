@@ -28,10 +28,11 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 ![img1](image1_resized_255x255.jpg)
 #### **[TEDx Speaker](https://www.youtube.com/watch?v=hQ-MoyboAKo)**: Presented my ideas to a global audience.
 ![img1](tedx.png)
-Built advanced robots using **Arduino** and **ESP32**.
-Expertise in repairing and designing electronic circuits.
 
 ## ⚙️ Technical Skills
+### Built advanced robots using **Arduino** and **ESP32**.
+Expertise in repairing and designing electronic circuits.
+
 ## Robots
 ![img1](image9_resized_255x255.JPG)
 ![im2](image3_resized_255x255.jpg)
