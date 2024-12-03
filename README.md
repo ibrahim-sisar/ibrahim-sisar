@@ -14,17 +14,28 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 ## 🏆 Achievements
 
 #### **Scientific and Technical Exhibition**: Achieved **1st Place** and the Grand Prize.
-<!--[](image2.jfif)
-![](image3.jfif)
-![](image4.jfif)-->
+![img1](image6_resized_255x255.jpg)
+![img2](image9_resized_255x255.JPG)
+![img3](image10_resized_255x255.JPG)
+![img4](image11_resized_255x255.jpg)
 #### WRO Local Competition**: Secured **1st Place** at the national level in Palestine.
+![img1](image2_resized_255x255.jpg)
+![img2](image3_resized_255x255.jpg)
+![img3](image4_resized_255x255.jpg)
+![img4](image5_resized_255x255.jpg)
 #### WRO International Competition**: Ranked **9th Globally** in Germany.
-**[TEDx Speaker](https://www.youtube.com/watch?v=hQ-MoyboAKo)**: Presented my ideas to a global audience.
+![img1](image1_resized_255x255.jpg)
+#### **[TEDx Speaker](https://www.youtube.com/watch?v=hQ-MoyboAKo)**: Presented my ideas to a global audience.
+![img1](tedx.png)
 Built advanced robots using **Arduino** and **ESP32**.
 Expertise in repairing and designing electronic circuits.
 
 ## ⚙️ Technical Skills
-
+## Robots
+![img1](image9_resized_255x255.JPG)
+![im2](image3_resized_255x255.jpg)
+![img3](image7_resized_255x255.jpg)
+![img4](image1_resized_255x255.jpg)
 ### 🖥️ Programming
 <div>
   <div align="left">
@@ -121,3 +132,6 @@ I aim to become a professional developer specializing in cutting-edge technologi
 > **Feel free to reach out for collaboration, sharing ideas, or exploring new opportunities!**
 ---
 ![](https://komarev.com/ghpvc/?username=ibrahim-sisar)
+
+
+
