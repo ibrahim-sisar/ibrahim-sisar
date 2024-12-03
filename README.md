@@ -10,16 +10,9 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 - Creating simple games with **Pygame**.
 - Working with camera systems using **OpenCV**.
 - Proficient in working with **REST APIs**.
+- Built advanced robots using **Arduino** and **ESP32**.
+- Expertise in repairing and designing electronic circuits.
 ## ⚙️ Technical Skills
-### Built advanced robots using **Arduino** and **ESP32**.
-Expertise in repairing and designing electronic circuits.
-
-## Robots
-![img1](image9_resized_255x255.JPG)
-![im2](image3_resized_255x255.jpg)
-![img3](image7_resized_255x255.jpg)
-![img4](image1_resized_255x255.jpg)
-![img4](image11_resized_255x255.jpg)
 ### 🖥️ Programming
 <div>
   <div align="left">
@@ -114,7 +107,12 @@ Expertise in repairing and designing electronic circuits.
 
 
 ---
-
+## Robots
+![img1](image9_resized_255x255.JPG)
+![im2](image3_resized_255x255.jpg)
+![img3](image7_resized_255x255.jpg)
+![img4](image1_resized_255x255.jpg)
+![img4](image11_resized_255x255.jpg)
 ## 📈 Vision for the Future
 
 I aim to become a professional developer specializing in cutting-edge technologies like Artificial Intelligence, Internet of Things (IoT), and system automation.
