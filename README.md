@@ -51,7 +51,7 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
   <img width="12" />
 </div>
 
-### 🔧** Electronics**
+### 🔧 Electronics
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Pygame">
   <img width="12" />
@@ -67,13 +67,13 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
   <img width="12" />
 </div>
 
-### 📑 **editor**
+### 📑 editor
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
 
-## 🏆 **Achievements** 
+## 🏆 Achievements 
 
 <!-- <img src="img1.jpg"> -->
 ### **Scientific and Technical Exhibition**: Achieved **1st Place** and the Grand Prize.
