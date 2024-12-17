@@ -1,4 +1,5 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+<div align="center"><h1>👋 Hello World! 👋</h1></div>
+<div align="center"><h1>🌟 Welcome to My GitHub Profile! 🌟</h1></div>
 
 ## 👨‍💻 About Me
 
