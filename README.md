@@ -96,7 +96,7 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 
 ### 🌐 Web Applications
  - **[IMDB](https://github.com/ibrahim-sisar/IMDB)**: Search for movie information useing **(flask)**.
- - **[Quickchat](https://github.com/ibrahim-sisar/QuickChat)**: A brief description of the project.
+ - **[Quickchat](https://github.com/ibrahim-sisar/QuickChat)**: A brief description of the project.([Video on YouTube](https://www.youtube.com/watch?v=gQidJSOYlCc)
 
 ### 🖥️ Desktop Applications
 - **[python markt](https://github.com/ibrahim-sisar/python-markt)**: A desktop application built with Tkinter.
