@@ -95,15 +95,15 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 ## 📂 Highlighted Projects
 
 ### 🌐 Web Applications
- - **[IMDB](https://github.com/ibrahim-sisar/IMDB)**: Search for movie information useing **(flask)**.
- - **[Quickchat](https://github.com/ibrahim-sisar/QuickChat)**: A brief description of the project.([Video on YouTube](https://www.youtube.com/watch?v=gQidJSOYlCc))
+ - **[IMDB](https://github.com/ibrahim-sisar/IMDB)**: The site is for searching for movie names and showing all the movie details.
+ - **[Quickchat](https://github.com/ibrahim-sisar/QuickChat)**:QuickChat is a simple and intuitive social media platform designed for casual users, focusing on ease of use and performance. The platform aims to provide a user-friendly experience by simplifying the complexities that are often found in other social media platforms. Whether you're a tech-savvy user or someone who prefers simplicity, QuickChat has.([Video on YouTube](https://www.youtube.com/watch?v=gQidJSOYlCc))
 
 ### 🖥️ Desktop Applications
 - **[python markt](https://github.com/ibrahim-sisar/python-markt)**: A desktop application built with Tkinter.
 
 ### 🤖 Robotics
-- **[Agrebot](https://youtu.be/0nFlWDTcbfs)**: It is an advanced robot that plants seeds in an organized manner and without intervention from the farmer. All he has to do is enter the number of seeds, the distance between the seed and the seed, and the number of rows. The robot calculates the area of ​​the land. The farmer enters the data through a mobile application.  
-  *(Check out the video to see it in action!)*
+- **Agrebot**: It is an advanced robot that plants seeds in an organized manner and without intervention from the farmer. All he has to do is enter the number of seeds, the distance between the seed and the seed, and the number of rows. The robot calculates the area of ​​the land. The farmer enters the data through a mobile application.  
+  *([Video on YouTube](https://youtu.be/0nFlWDTcbfs) Check out the video to see it in action!)*
 
 
 
