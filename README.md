@@ -14,6 +14,10 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 - Built advanced robots using **Arduino** and **ESP32**.
 - Expertise in repairing and designing electronic circuits.
 ## ⚙️ Technical Skills
+<div>
+<img src="https://wakatime.com/share/@ibrahim_sisar/e15b0de0-278a-46c3-b070-4ce5986b7bf1.svg">
+</div>
+
 ### 🖥️ Programming
 <div>
   <div align="left">
