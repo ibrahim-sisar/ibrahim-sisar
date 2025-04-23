@@ -1,22 +1,27 @@
-<div align="center"><h1>👋 Hello World! 👋</h1></div>
-<div align="center"><h1>🌟 Welcome to My GitHub Profile! 🌟</h1></div>
+<h1 align="center">🚀 Ibrahim Abu Al Roos</h1>
+<p align="center">Full-stack Developer | Robotics Innovator | Tech for Good Advocate</p>
+<p align="center">Building tech from Gaza to the world 🌍</p>
+<p align="center">
+  <a href="mailto:ibrahim.sisar@gmail.com">📧 Contact Me</a> • 
+  <a href="https://github.com/ibrahim-sisar">🌐 GitHub</a> • 
+  <a href="https://www.linkedin.com/in/ibrahim-sisar">🔗 linked in</a> • 
+  <a href="https://www.youtube.com/watch?v=hQ-MoyboAKo">🎤 TEDx Talk</a>
+</p>
 
-## 👨‍💻 About Me
+---
 
-Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and tech enthusiast. At just 15 years old, I have developed a solid foundation in various programming and technical fields.  
+## 🚀 About Me
 
-**What do I offer?**
-- Building web applications with **Django** and **Flask**.
-- Designing desktop applications using **Tkinter**.
-- Creating simple games with **Pygame**.
-- Working with camera systems using **OpenCV**.
-- Proficient in working with **REST APIs**.
-- Built advanced robots using **Arduino** and **ESP32**.
-- Expertise in repairing and designing electronic circuits.
+I'm a 16-year-old passionate programmer from Gaza, living in Egypt. I've built robots, apps, and platforms that aim to change lives — all while self-learning in the middle of crises.
+
+- 🧠 Specialized in Python, JavaScript, and backend frameworks (Django, Flask).
+- 🕹️ Robotics expert – Arduino, ESP32, IoT systems.
+- 🎮 Game and desktop app maker (Pygame, Tkinter).
+- 🎯 Finalist in international robotics competitions.
+- 🧰 Contributor to tech for good.
+
+---
 ## ⚙️ Technical Skills
-<div>
-<img src="https://wakatime.com/share/@ibrahim_sisar/e15b0de0-278a-46c3-b070-4ce5986b7bf1.svg">
-</div>
 
 ### 🖥️ Programming
 <div>
@@ -64,16 +69,12 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
   <img width="12" />
 </div>
 
-### 🔄 distributed version control system
+### 🛠 Tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-</div>
-
-### 📑 editor
-<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
@@ -81,35 +82,28 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 ## 🏆 Achievements 
 
 <!-- <img src="img1.jpg"> -->
-### **Scientific and Technical Exhibition**: Achieved **1st Place** and the Grand Prize.
+### 🥇 **Scientific and Technical Exhibition**: Achieved **1st Place** and the Grand Prize.
 ![img1](image6_resized_255x255.jpg)
 ![img2](image9_resized_255x255.JPG)
 ![img3](image10_resized_255x255.JPG)
 <!-- [img4](image11_resized_255x255.jpg) -->
-### **WRO Local Competition**: Secured **1st Place** at the national level in Palestine.
+### 🥇 **WRO Local Competition**: Secured **1st Place** at the national level in Palestine.
 ![img1](image2_resized_255x255.jpg)
 ![img2](image3_resized_255x255.jpg)
 ![img3](image4_resized_255x255.jpg)
 <!-- [img4](image5_resized_255x255.jpg)-->
-### **WRO International Competition**: Ranked **9th Globally** in Germany.
+### 🥇 **WRO International Competition**: Ranked **9th Globally** in Germany.
 ![img1](image1_resized_255x255.jpg)
 ### **[TEDx Speaker](https://www.youtube.com/watch?v=hQ-MoyboAKo)**: Presented my ideas to a global audience.
 ![img1](tedx.png)
 
-## 📂 Highlighted Projects
+## 📌 Featured Projects
 
-### 🌐 Web Applications
- - **[IMDB](https://github.com/ibrahim-sisar/IMDB)**: The site is for searching for movie names and showing all the movie details.
- - **[Quickchat](https://github.com/ibrahim-sisar/QuickChat)**:QuickChat is a simple and intuitive social media platform designed for casual users, focusing on ease of use and performance. The platform aims to provide a user-friendly experience by simplifying the complexities that are often found in other social media platforms. Whether you're a tech-savvy user or someone who prefers simplicity, QuickChat has.([Video on YouTube](https://www.youtube.com/watch?v=gQidJSOYlCc))
-
-### 🖥️ Desktop Applications
-- **[python markt](https://github.com/ibrahim-sisar/python-markt)**: A desktop application built with Tkinter.
-
-### 🤖 Robotics
-- **Agrebot**: It is an advanced robot that plants seeds in an organized manner and without intervention from the farmer. All he has to do is enter the number of seeds, the distance between the seed and the seed, and the number of rows. The robot calculates the area of ​​the land. The farmer enters the data through a mobile application.  
-  *([Video on YouTube](https://youtu.be/0nFlWDTcbfs) Check out the video to see it in action!)*
-
-
+| Project | Description | Tech |
+|--------|-------------|------|
+| [QuickChat](https://github.com/ibrahim-sisar/QuickChat) | Social media platform for simplicity & speed | Django, REST |
+| [IMDB Clone](https://github.com/ibrahim-sisar/IMDB) | Movie info searcher | Flask, API |
+| [Agrebot](https://youtu.be/0nFlWDTcbfs) | Smart farming robot with mobile control | ESP32, App |
 
 ---
 ## Robots
@@ -118,21 +112,25 @@ Hi there! I'm **Ibrahim abu al roos**, a passionate programmer, innovator, and t
 ![img3](image7_resized_255x255.jpg)
 ![img4](image1_resized_255x255.jpg)
 ![img4](image11_resized_255x255.jpg)
-## 📈 Vision for the Future
 
-I aim to become a professional developer specializing in cutting-edge technologies like Artificial Intelligence, Internet of Things (IoT), and system automation.
+## 🔮 Vision
+
+> *“I dream of a world where Gaza isn’t known for war, but for innovation.”*
+
+My goal is to become a top developer in AI, IoT, and humanitarian tech.
 
 ---
 
+## 📬 Let's Connect
 
-## 🤝 Let's Connect!
-
-- **Email**: [ibrahim.sisar@gmail.com](ibrahim.sisar@gmail.com)
-- **GitHub**: [https://github.com/ibrahim-sisar](https://github.com/ibrahim-sisar)
+📧 **Email**: ibrahim.sisar@gmail.com  
+🌐 **GitHub**: [ibrahim-sisar](https://github.com/ibrahim-sisar)  
+🎥 **YouTube**: [TEDx Talk](https://www.youtube.com/watch?v=hQ-MoyboAKo)
+🔗 **linked in** [LinkedIn](https://www.linkedin.com/in/ibrahim-sisar)
 
 ---
 
 > 💡 "Continuous learning is the key to success."  
 > **Feel free to reach out for collaboration, sharing ideas, or exploring new opportunities!**
 ---
-![](https://komarev.com/ghpvc/?username=ibrahim-sisar)
+![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-sisar&style=flat-square)
