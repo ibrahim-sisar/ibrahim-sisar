@@ -125,8 +125,9 @@ My goal is to become a top developer in AI, IoT, and humanitarian tech.
 
 📧 **Email**: ibrahim.sisar@gmail.com  
 🌐 **GitHub**: [ibrahim-sisar](https://github.com/ibrahim-sisar)  
-🎥 **YouTube**: [TEDx Talk](https://www.youtube.com/watch?v=hQ-MoyboAKo)
-🔗 **linked in** [LinkedIn](https://www.linkedin.com/in/ibrahim-sisar)
+🔗 **linked in**: [LinkedIn](https://www.linkedin.com/in/ibrahim-sisar) 
+🎥 **YouTube**: [TEDx Talk](https://www.youtube.com/watch?v=hQ-MoyboAKo) 
+
 
 ---
 
