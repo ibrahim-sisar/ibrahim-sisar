@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a 16-year-old passionate programmer from Gaza, living in Egypt. I've built robots, apps, and platforms that aim to change lives — all while self-learning in the middle of crises.
+I'm a passionate programmer I've built robots, apps, and platforms that aim to change lives — all while self-learning in the middle of crises.
 
 - 🧠 Specialized in Python, JavaScript, and backend frameworks (Django, Flask).
 - 🕹️ Robotics expert – Arduino, ESP32, IoT systems.
