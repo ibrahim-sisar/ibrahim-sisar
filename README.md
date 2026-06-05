@@ -115,9 +115,11 @@ I'm a passionate programmer I've built robots, apps, and platforms that aim to c
 
 ## 🔮 Vision
 
-> *“I dream of a world where Gaza isn’t known for war, but for innovation.”*
-
-My goal is to become a top developer in AI, IoT, and humanitarian tech.
+<p align="center">
+  <i>This work and journey are dedicated to the memory of my beloved father, 
+  <a href="https://github.com/USERNAME_OF_YOUR_FATHER"><b>Said Ibrahim Abu Al-Roos</b></a>. 
+  May Allah have mercy on his soul. 🤍</i>
+</p>
 
 ---
 
