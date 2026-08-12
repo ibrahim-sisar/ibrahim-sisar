@@ -21,6 +21,12 @@ I'm a passionate programmer I've built robots, apps, and platforms that aim to c
 - 🧰 Contributor to tech for good.
 
 ---
+## 📅 Availability
+
+I'm currently focused on a demanding academic year and won't be taking on new projects or long-term commitments for the foreseeable future.
+
+I'm always happy to connect, exchange ideas, and learn about interesting projects. For collaborations, engineering opportunities, or team projects, **please feel free to reach out and keep in touch for future opportunities.**
+
 ## ⚙️ Technical Skills
 
 ### 🖥️ Programming
