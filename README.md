@@ -1,145 +1,79 @@
-<h1 align="center">🚀 Ibrahim Abu Al Roos</h1>
-<p align="center">Full-stack Developer | Robotics Innovator | Tech for Good Advocate</p>
-<p align="center">Building tech from Gaza to the world 🌍</p>
+<h1 align="center">Ibrahim Abu Al Roos</h1>
 <p align="center">
-  <a href="mailto:ibrahim.sisar@gmail.com">📧 Contact Me</a> • 
-  <a href="https://github.com/ibrahim-sisar">🌐 GitHub</a> • 
-  <a href="https://www.linkedin.com/in/ibrahim-sisar">🔗 linked in</a> • 
-  <a href="https://www.youtube.com/watch?v=hQ-MoyboAKo">🎤 TEDx Talk</a>
+  <b>Full-Stack Developer · Robotics Engineer · Tech for Good</b><br/>
+  Building resilient technology from Gaza to the world
+</p>
+
+<p align="center">
+  <a href="https://ibrahim-sisar.github.io/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/ibrahim-sisar">LinkedIn</a> •
+  <a href="https://www.youtube.com/watch?v=hQ-MoyboAKo">TEDx Talk</a> •
+  <a href="mailto:ibrahim.sisar@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a passionate programmer I've built robots, apps, and platforms that aim to change lives — all while self-learning in the middle of crises.
+Self-taught developer from Gaza, based in Cairo. I build software and robots
+designed for people working under difficult conditions: low connectivity,
+limited resources, and emergencies. I lead open-source teams, compete
+internationally, and ship projects that solve real problems.
 
-- 🧠 Specialized in Python, JavaScript, and backend frameworks (Django, Flask).
-- 🕹️ Robotics expert – Arduino, ESP32, IoT systems.
-- 🎮 Game and desktop app maker (Pygame, Tkinter).
-- 🎯 Finalist in international robotics competitions.
-- 🧰 Contributor to tech for good.
+## Featured Projects
 
----
-## 📅 Availability
+| Project | What it does | Stack |
+|---|---|---|
+| [**EduLite**](https://github.com/ibrahim-sisar/EduLite) | Open-source e-learning platform built for low-bandwidth and disaster-affected areas | Django, REST |
+| [**QuickChat**](https://github.com/ibrahim-sisar/QuickChat) | Social platform with posts, comments, auth, and real-time updates | Django, REST |
+| [**AgreBot**](https://youtu.be/0nFlWDTcbfs) | Smart seed-planting robot controlled from a mobile app | ESP32, Arduino |
 
-I'm currently focused on a demanding academic year and won't be taking on new projects or long-term commitments for the foreseeable future.
+## Recognition
 
-I'm always happy to connect, exchange ideas, and learn about interesting projects. For collaborations, engineering opportunities, or team projects, **please feel free to reach out and keep in touch for future opportunities.**
+- 🌍 **20th place globally (Bronze Medal)**, World Robot Olympiad, Germany, representing Palestine · [Results](https://scoring.wro-association.org/en/event/scoring/29/wro-international-final-2022-germany#:~:text=INNOVATION%20FAMILY) · [UNESCO](https://www.unesco.org/en/articles/gaza-germany-gardebot-robot)
+- 🥇 **1st place**, National WRO Robotics Challenge, Palestine
+- 🥇 **1st place & Grand Prize**, Scientific and Technical Exhibition · [Al Jazeera](https://aja.me/mmh4cy) · [Robot Video](https://www.youtube.com/watch?v=OTWLbMoWY7o)
+- 🎤 **TEDx speaker**, shared my journey in programming and resilience · [Watch](https://www.youtube.com/watch?v=hQ-MoyboAKo)
+- 💡 Participant, **MIT Global AI Hackathon 2025**
 
-## ⚙️ Technical Skills
+## Certifications
 
-### 🖥️ Programming
-<div>
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-</div>
+| Provider | Certificate |
+|---|---|
+| Harvard | [CS50x](https://certificates.cs50.io/78bacc91-98d0-439c-8d9b-76853177c814.pdf?size=letter) · [CS50P](https://certificates.cs50.io/2cec9ded-fb7d-4e13-aba2-000ca400f345.pdf?size=letter) |
+| IBM | [Git and GitHub Basics (CD0131EN)](https://courses.edx.org/certificates/2f0ee053304841d8910f1ef2158e9263) |
+| NVIDIA | [Getting Started with Deep Learning](https://learn.nvidia.com/certificates?id=R-jFD8a8RBu4Cv1mhq2CBA) |
+| DataCamp| [Introduction to SQL](https://www.datacamp.com/courses/introduction-to-sql?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=coursedetailpage) |
+| DataCamp| [Introduction to Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/b9cdc18f7501425d9cceb5dec25a8de8524d9c37?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa) |
+| DataCamp| [Introduction to Functions in PythonL](https://www.datacamp.com/completed/statement-of-accomplishment/course/e529a2858b87fcac35bef55bed6ae1d448c432b4?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa) |
 
+## Tech Stack
 
-### 📚 Frameworks & Libraries
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wEAtpMCNxjcW_9VZyGafdg.png" height="70" alt="Tkinter">
-  <img width="22" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Pygame_logo.svg" height="40" alt="Pygame">
-  <img width="12" />
-  <img src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png" height="70" alt="Pygame">
-  <img width="12" />
-</div>
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
-### 🔧 Electronics
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="50" alt="Pygame">
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_von_Espressif.png" height="50" alt="Pygame">
-  <img width="12" />
-</div>
+## Currently
 
-### 🛠 Tools
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-</div>
+- 🔨 Building **EduLite** with open-source contributors
+- 📚 Preparing for my final high school exams
+- 🧰 Working on **ZEN**, a minimalist project-generation tool in Python
 
-## 🏆 Achievements 
+## Availability
 
-<!-- <img src="img1.jpg"> -->
-### 🥇 **Scientific and Technical Exhibition**: Achieved **1st Place** and the Grand Prize.
-![img1](image6_resized_255x255.jpg)
-![img2](image9_resized_255x255.JPG)
-![img3](image10_resized_255x255.JPG)
-<!-- [img4](image11_resized_255x255.jpg) -->
-### 🥇 **WRO Local Competition**: Secured **1st Place** at the national level in Palestine.
-![img1](image2_resized_255x255.jpg)
-![img2](image3_resized_255x255.jpg)
-![img3](image4_resized_255x255.jpg)
-<!-- [img4](image5_resized_255x255.jpg)-->
-### 🥇 **WRO International Competition**: Ranked **9th Globally** in Germany.
-![img1](image1_resized_255x255.jpg)
-### **[TEDx Speaker](https://www.youtube.com/watch?v=hQ-MoyboAKo)**: Presented my ideas to a global audience.
-![img1](tedx.png)
-
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [QuickChat](https://github.com/ibrahim-sisar/QuickChat) | Social media platform for simplicity & speed | Django, REST |
-| [IMDB Clone](https://github.com/ibrahim-sisar/IMDB) | Movie info searcher | Flask, API |
-| [Agrebot](https://youtu.be/0nFlWDTcbfs) | Smart farming robot with mobile control | ESP32, App |
+I'm focused on my studies and not taking on new long-term commitments right now,
+but I'm always glad to exchange ideas. For collaborations or future
+opportunities, feel free to reach out.
 
 ---
-## Robots
-![img1](image9_resized_255x255.JPG)
-![im2](image3_resized_255x255.jpg)
-![img3](image7_resized_255x255.jpg)
-![img4](image1_resized_255x255.jpg)
-![img4](image11_resized_255x255.jpg)
-
-## 🔮 Vision
 
 <p align="center">
-  <i>This work and journey are dedicated to the memory of my beloved father, 
-  <a href="https://github.com/USERNAME_OF_YOUR_FATHER"><b>Said Ibrahim Abu Al-Roos</b></a>. 
+  <i>Dedicated to the memory of my father, <a href="https://www.linkedin.com/in/sisar/">Said Ibrahim Abu Al-Roos</a>.
   May Allah have mercy on his soul. 🤍</i>
 </p>
-
----
-
-## 📬 Let's Connect
-
-📧 **Email**: ibrahim.sisar@gmail.com  
-🌐 **GitHub**: [ibrahim-sisar](https://github.com/ibrahim-sisar)  
-🔗 **linked in**: [LinkedIn](https://www.linkedin.com/in/ibrahim-sisar) 
-🎥 **YouTube**: [TEDx Talk](https://www.youtube.com/watch?v=hQ-MoyboAKo) 
-
-
----
-
-> 💡 "Continuous learning is the key to success."  
-> **Feel free to reach out for collaboration, sharing ideas, or exploring new opportunities!**
----
-![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-sisar&style=flat-square)
